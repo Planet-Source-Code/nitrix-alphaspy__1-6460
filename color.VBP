@@ -1,0 +1,16 @@
+Form=frmColor.frm
+Module=color32; color32.bas
+Reference=*\G{BEF6E001-A874-101A-8BBA-00AA00300CAB}#2.0#0#C:\WINDOWS\SYSTEM\olepro32.dll#Standard OLE Types
+ProjWinSize=66,358,194,128
+ProjWinShow=2
+IconForm="frmColor"
+Name="Project1"
+HelpContextID="0"
+StartMode=0
+VersionCompatible32="0"
+MajorVer=1
+MinorVer=0
+RevisionVer=0
+AutoIncrementVer=0
+ServerSupportFiles=0
+VersionCompanyName="Home"
